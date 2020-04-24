@@ -197,5 +197,9 @@ figure.portfolio__img:hover p.portfolio__links a:first-child {
     float: none;
     margin: 10px auto;
     width: 100%;
+    height: 300px;
+  }
+  .portfolio .portfolio__description {
+    bottom: 5em;
   }
 }
